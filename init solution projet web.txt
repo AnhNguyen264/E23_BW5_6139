@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 a,rklshrkslfjfjsfsflsj;lfjnnkldddddskldfsjfjsj;fjsjfjldjfsljfsfjsfjljfsjf;jfojfojfsflfsf
 =======
+
 friqwgduwagdiuqwguisgd
+
+Ajout un petit truc de plus efficace
 >>>>>>> FTC_ModifMaison
